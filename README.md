@@ -304,6 +304,47 @@ Studied the core concepts and practices of DevOps in a Linux environment. Gained
 
 </details>
 
+<details>
+  
+<summary><b>Containers and Cloud Oct-2025</b></summary>
+
+###### Description
+
+The "Containers and Cloud" course covers best practices for building Docker containers and deploying them to Azure cloud environments. It includes essential Linux commands, Docker Compose, and infrastructure as code. The course also integrates AI tools to automate routine tasks and enhance learning efficiency.
+
+###### Skills
+
+- Working with Linux Shell
+- Configuring Docker containers
+- Working with Docker Compose
+- Deploying a complete project to cloud infrastructure (Azure)
+- Preparing infrastructure through code (Infrastructure as Code)
+- Working with monitoring tools (Prometheus, Grafana, Alerting)
+  
+</details>
+
+<details>
+  
+<summary><b>React Native Jan-2026</b></summary>
+
+###### Description
+
+Completed a React Native course focused on building cross-platform mobile applications for Android and iOS. Gained experience in UI development, state management, navigation, backend integration (Firebase), and working with device features, along with TypeScript and debugging tools.
+
+###### Skills
+
+- Building cross-platform mobile applications with React Native
+- Creating responsive UI using Flexbox and StyleSheet
+- State management with Context API and Redux
+- Navigation between screens (React Navigation)
+- Integration with backend services (Firebase)
+- Working with device features (camera, location, push notifications)
+- Debugging and error handling
+- Implementing basic and advanced animations
+  
+</details>
+
+
 <br>
 
 ## My Educational Journey - JavaScript Full-Stack Developer
@@ -344,12 +385,15 @@ Curriculum ───────────────────────
     │                 └─► Static Typing, OOP, Classes, Interfaces, Generics, Decorators
     │                 └─► <a href="https://softuni.bg/certificates/details/215471/40758059"><strong>See certificate</strong></a>
     │
-    ├─► [Module 7]    ReactJS + Angular
+    ├─► [Module 7]    ReactJS, Angular and React Native
     │                 └─► JSX, Hooks, Context API, Routing, State Management, Unit Testing (JEST)
     │                 └─► <a href="https://softuni.bg/certificates/details/242157/be03c545"><strong>See certificate - ReactJS</strong></a>
     |                 | 
     │                 └─► Components, Directives, Observables, DI, Karma & Jasmine
     │                 └─► <a href="https://softuni.bg/certificates/details/250014/40bd81b6"><strong>See certificate - Angular</strong></a>
+    |                 | 
+    │                 └─► React Native
+    │                 └─► <a href="https://softuni.bg/certificates/details/258406/2eaa9d7f"><strong>See certificate - React Native</strong></a>
     │
     ├───────► <strong>[Elective Courses]</strong>
     │
@@ -368,8 +412,13 @@ Curriculum ───────────────────────
     ├───────► <strong>[Specialization Module]</strong>
     │
     └─► [Module 8]    DevOps Specialization ⭐
-                      └─► Git/GitHub, CI/CD (Jenkins, Actions), Automation
-                      └─► <a href="https://softuni.bg/certificates/details/252708/a82591ef"><strong>See certificate</strong></a>
+    |                 └─► Git/GitHub, CI/CD (Jenkins, Actions), Automation
+    |                 └─► <a href="https://softuni.bg/certificates/details/252708/a82591ef"><strong>See certificate</strong></a>
+    |                 |
+    │                 └─► Containers and Cloud (Docker, Terraform, Azure)
+    └─                └─► <a href="https://softuni.bg/certificates/details/255467/7363196a"><strong>See certificate</strong></a>
+
+   
 </pre>
 
 ## License
