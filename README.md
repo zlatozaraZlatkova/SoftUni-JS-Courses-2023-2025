@@ -34,8 +34,6 @@ Program Structure:
 The following section outlines the main modules of study and provides a brief explanation of the skills acquired, as well as links to additional resources for further information.
 
 <details>
-
-<br><br>
 <summary><b>Programming Basics Nov-2022</b></summary>
 
 ###### Description
